@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /whothehellareyou?/
 ---
 
-Some information about you!
+I'm Ritvik Choudhary from India, I'm probably a developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+See the bottom of the page.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ritvik@outlook.com](mailto:ritvik@outlook.com)
