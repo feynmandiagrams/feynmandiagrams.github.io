@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who the hell are you?
-permalink: /whothehellareyou?/
+permalink: /whothehellareyou/
 ---
 
 I'm Ritvik Choudhary from India, I'm probably a developer.
