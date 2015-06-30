@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some updates on the situation right now.
+title: Some updates.
 ---
 Alright, so it's July now.
 
