@@ -1,3 +1,7 @@
+---
+layout: post
+title: Some updates on the situation right now.
+---
 Alright, so it's July now.
 
 Big news from June is, we(Pied Piper) were second at AngelHack Delhi, which I belive is lot of surprise for me and my team at AH.
